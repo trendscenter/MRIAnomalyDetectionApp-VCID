@@ -20,4 +20,4 @@ MRIAnomalyDetectionApp-VCID is a PyQt-based application designed for the detecti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/trends/MRIAnomalyDetectionApp-VCID.git
+   git clone https://github.com/trendscenter/MRIAnomalyDetectionApp-VCID.git
